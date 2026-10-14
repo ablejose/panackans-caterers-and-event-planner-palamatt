@@ -1,0 +1,59 @@
+{
+  "slug": "panackans-caterers-and-event-planner-palamatt",
+  "name": "Panackans Caterers & Event Planner",
+  "shortName": "Panackans",
+  "descriptor": "Catering & Events",
+  "address": "GJ25+GWJ, Karukachal - Palamattom Rd, Pongamthanam, Palamattam, Keralam 686536",
+  "area": "Pongamthanam",
+  "city": "Palamattam",
+  "district": "Kottayam",
+  "region": "Kerala",
+  "postalCode": "686536",
+  "geo": {
+    "lat": 9.5013434,
+    "lng": 76.6097533
+  },
+  "mapsLink": "https://maps.google.com/?cid=2865853075792966458",
+  "phone": "+91 96566 36143",
+  "whatsapp": "919656636143",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 49,
+  "reviews": [
+    {
+      "name": "Reshma Suresh",
+      "rating": 5,
+      "quote": "We are so grateful for all your hard work and for turning our celebration into such a wonderful memory. All the food you served was so delicious.Everything was perfect, and we couldn’t have asked for a better team to make this special day even more magical. ✨"
+    },
+    {
+      "name": "Blesson Kb",
+      "rating": 5,
+      "quote": "The rate was reasonable, and the food was very tasty. Especially the Butter Chicken and Paneer Butter Masala were excellent. The packing was also superb. Overall, it was a very good experience and I have a great opinion about it. Highly recommended."
+    },
+    {
+      "name": "Jebin Sony",
+      "rating": 5,
+      "quote": "I ordered biryani from Panackans Catering. The food was excellent. The biryani was delivered on time and served hot. I am very happy with the service. Thank യു"
+    },
+    {
+      "name": "Anju",
+      "rating": 5,
+      "quote": "Excellent services for ur team . Proper time mgt and decor was nice .very cooperative and frndly approach for ur team & the food is really tasty.I'm really hpy for ur service.Thankyou so much panackans team."
+    },
+    {
+      "name": "akku efootball",
+      "rating": 5,
+      "quote": "Thank you for delicious biriyani Mr.panakans caterer's ....! especially that Kottayam style biriyani.🤤 I will definitely suggesting to my relatives function. Keep going...!!!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://panackans-caterers-and-event-planne.vercel.app"
+}
